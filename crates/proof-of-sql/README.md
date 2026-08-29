@@ -200,3 +200,7 @@ The second interaction involves query requests, where the Verifier seeks data an
 ## License
 
 Proof of SQL is licensed under the Decentralized Open Software License 1.0. Please see the [LICENSE](https://github.com/spaceandtimelabs/sxt-proof-of-sql/blob/main/LICENSE) file for details.
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
